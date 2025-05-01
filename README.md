@@ -3,7 +3,7 @@
 Program by Ryan C
 
 
-\Welcome to the Formula 1 Past Championship & Performance Tracker! This program allows users to view key information about the past Formula 1 seasons (defaulted to 2024 but you can change this), including driver and constructor standings, race results, and driver/team performance. Follow the guide below to get started!
+Welcome to the Formula 1 Past Championship & Performance Tracker! This program allows users to view key information about the past Formula 1 seasons (defaulted to 2024 but you can change this), including driver and constructor standings, race results, and driver/team performance. Follow the guide below to get started!
 
 
 IMPORTANT - This program works with any csv under race results at: https://github.com/toUpperCase78/formula1-datasets/blob/master/Formula1_2024season_raceResults.csv. 
