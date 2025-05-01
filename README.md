@@ -43,11 +43,17 @@ When you run the program, you will be presented with the Main Menu, which looks 
 Welcome to the Formula One Championship and Performance Tracker!
 ------------------------------------------------------------
 [1] View Driver's championship leaderboard
+
 [2] View Constructor's championship leaderboard
+
 [3] View race results
+
 [4] Search for Driver performance
+
 [5] Search for Team performance
+
 [6] Exit
+
 ------------------------------------------------------------
 
 
