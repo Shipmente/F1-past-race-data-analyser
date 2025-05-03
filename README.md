@@ -1,6 +1,7 @@
 **Formula 1 Championship & Performance Tracker - User Guide**
 
 Program by Ryan C
+
 YOU WILL NEED A PYTNON INTERPERATOR FOR THIS, eg Vscode
 
 Welcome to the Formula 1 Past Championship & Performance Tracker! This program allows users to view key information about the past Formula 1 seasons (defaulted to 2024 but you can change this), including driver and constructor standings, race results, and driver/team performance. Follow the guide below to get started!
