@@ -1,4 +1,4 @@
-**Formula 1 Championship & Performance Tracker - User Guide**
+**Formula 1 Championship & Performance Tracker | USER GUIDE**
 
 Program by Ryan C
 
